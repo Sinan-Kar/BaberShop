@@ -15,6 +15,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [style.css](https://github.com/Sinan-Kar/BaberShop.github.io/blob/master/css/style.css)
 
 
-## :pencil2:Authors
+### :pencil2:Authors
 * **Sinan Kara** - [Sinan Kara](https://github.com/Sinan-Kar)*/
  
