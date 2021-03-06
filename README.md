@@ -1,9 +1,9 @@
+## :pushpin:Barber [BarberShop]
+(https://sinan-kar.github.io/BaberShop.github.io)
 
-https://sinan-kar.github.io/BaberShop.github.io
 
 
 
-## :pushpin:Barber
 **W**ebsite was created using only
  html css and JavaScript as a **response.**
  **Barber** .
