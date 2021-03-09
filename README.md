@@ -1,4 +1,4 @@
-## :pushpin:Barber [BarberShop](https://sinan-kar.github.io/BaberShop.github.io)
+## :pushpin:Barber [BarberShop](https://sinan-kar.github.io/BaberShop/)
 
 
 
